@@ -1,2 +1,7 @@
 Git is a distributed version control system.
 Git is a distributed
+
+
+
+
+http://datainfo.duapp.com/shopdata/datainfo.html
